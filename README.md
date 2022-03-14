@@ -8,7 +8,7 @@ Python programming with Data Insights
 - print formatting
 - Python semantic Operators
     - Arithmetic
-    - Comparision
+    - Comparison
     - Assignment
     - Boolean
     - Identity
